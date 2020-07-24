@@ -10,3 +10,4 @@ Python已经应用于很多领域：
 1.2 Python发展历史
 1989年12月圣诞节期间，Guido开始写Python，当时他还阅读了Monty Python's Flying Circus的剧本。Guido认为他需要一个简短、独特且略显神秘的名字，因此他决定将该语言称为Python。此时Python已经具有了类，函数，异常处理，表和词典在内的核心数据类型，以及模块为基础的拓展系统。
 ![python发展历程](https://github.com/stone9693/python_basics/blob/master/source/Python发展历程.jpg)
+
