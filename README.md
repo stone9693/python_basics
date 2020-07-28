@@ -1,4 +1,3 @@
-# python_basics
 * [chapter1/概述](/course/chapter1.md)  
   - [1.1 Python简介](https://github.com/stone9693/python_basics/blob/master/course/chapter1.md#11-python%E7%AE%80%E4%BB%8B)
   - [1.2 Python发展历史](https://github.com/stone9693/python_basics/blob/master/course/chapter1.md#12-python%E5%8F%91%E5%B1%95%E5%8E%86%E5%8F%B2)
@@ -9,3 +8,11 @@
   - [2.2 print()](https://github.com/stone9693/python_basics/blob/master/course/chapter2.md#22-print)
   - [2.3 数据类型](https://github.com/stone9693/python_basics/blob/master/course/chapter2.md#23-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)
   - [2.4 变量](https://github.com/stone9693/python_basics/blob/master/course/chapter2.md#24-%E5%8F%98%E9%87%8F)
+* [chapter3/数据结构](/course/chapter3.md)
+  - [3.1 列表(List)](https://github.com/stone9693/python_basics/blob/master/course/chapter3.md#31-%E5%88%97%E8%A1%A8list)
+  - [3.2 元组(Tuple)](https://github.com/stone9693/python_basics/blob/master/course/chapter3.md#32-%E5%85%83%E7%BB%84tuple)
+  - [3.3 字典(Dict)](https://github.com/stone9693/python_basics/blob/master/course/chapter3.md#33-%E5%AD%97%E5%85%B8dict)
+* [chapter4/条件和循环](/course/chapter4.md)
+  - [4.1 条件](https://github.com/stone9693/python_basics/blob/master/course/chapter4.md#41-%E6%9D%A1%E4%BB%B6)
+  - [4.2 循环](https://github.com/stone9693/python_basics/blob/master/course/chapter4.md#42-%E5%BE%AA%E7%8E%AF)
+  - [4.3 综合](https://github.com/stone9693/python_basics/blob/master/course/chapter4.md#43-%E7%BB%BC%E5%90%88)
