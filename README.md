@@ -1,7 +1,11 @@
 # python_basics
-Python基础知识，方便Python初学者按部就班的学习。  
 * [chapter1/概述](/course/chapter1.md)  
-  - [1.1 Python简介](/course/chapter1.md)
-  - [1.2 Python发展历史](/course/chapter1.md)
-  - [1.3 Python优势](/course/chapter1.md)
-  - [1.4 Python 环境搭建](/course/chapter1.md)
+  - [1.1 Python简介](https://github.com/stone9693/python_basics/blob/master/course/chapter1.md#11-python%E7%AE%80%E4%BB%8B)
+  - [1.2 Python发展历史](https://github.com/stone9693/python_basics/blob/master/course/chapter1.md#12-python%E5%8F%91%E5%B1%95%E5%8E%86%E5%8F%B2)
+  - [1.3 Python优势](https://github.com/stone9693/python_basics/blob/master/course/chapter1.md#13-python%E4%BC%98%E5%8A%BF)
+  - [1.4 Python 环境搭建](https://github.com/stone9693/python_basics/blob/master/course/chapter1.md#14-python-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA)  
+* [chapter2/变量和数据类型 ](/course/chapter2.md)
+  - [2.1 Python语法简介](https://github.com/stone9693/python_basics/blob/master/course/chapter2.md#21-python%E8%AF%AD%E6%B3%95%E7%AE%80%E4%BB%8B)
+  - [2.2 print()](https://github.com/stone9693/python_basics/blob/master/course/chapter2.md#22-print)
+  - [2.3 数据类型](https://github.com/stone9693/python_basics/blob/master/course/chapter2.md#23-%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)
+  - [2.4 变量](https://github.com/stone9693/python_basics/blob/master/course/chapter2.md#24-%E5%8F%98%E9%87%8F)
