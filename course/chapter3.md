@@ -74,3 +74,4 @@ python的列表可以嵌套列表；
 ![3_26](https://github.com/stone9693/python_basics/blob/master/source/3_26.png)  
 3.4.3 方法  
 ![3_27](https://github.com/stone9693/python_basics/blob/master/source/3_27.png)  
+
