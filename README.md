@@ -1,5 +1,5 @@
 # python_basics
-Python基础知识，方便Python初学者按部就班的入门。  
+Python基础知识，方便Python初学者按部就班的学习。  
 * [chapter1/概述](/course/chapter1.md)  
   - [1.1 Python简介](/course/chapter1.md)
   - [1.2 Python发展历史](/course/chapter1.md)
