@@ -23,7 +23,7 @@ ndarray是numpy的一种基本的数据结构，numpy的运算都是基于其展
 numpy的linalg模块是可用于线性代数的相关运算。  
 本节主要涉及：np.linalg.dot，np.linalg.solve，np.linalg.inv；  
 ![9_7](https://github.com/stone9693/python_basics/blob/master/source/9_7.png)  
-# 9.4 随机数
+# 9.3 随机数
 numpy中的random模块提供了随机数生成器。  
 本节主要涉及：rand，randint，randn，permutation，shuffle；  
 ![9_8](https://github.com/stone9693/python_basics/blob/master/source/9_8.png)  
