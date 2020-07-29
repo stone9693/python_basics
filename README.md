@@ -29,3 +29,6 @@
   - [7.3 类的继承](https://github.com/stone9693/python_basics/blob/master/course/chapter7.md#73-%E7%B1%BB%E7%9A%84%E7%BB%A7%E6%89%BF)
   - [7.4 类的多态](https://github.com/stone9693/python_basics/blob/master/course/chapter7.md#74-%E7%B1%BB%E7%9A%84%E5%A4%9A%E6%80%81)
   - [7.5 类的私有化](https://github.com/stone9693/python_basics/blob/master/course/chapter7.md#75-%E7%B1%BB%E7%9A%84%E7%A7%81%E6%9C%89%E5%8C%96)
+* [chapter8/模块和包](/course/chapter8.md)
+  - [8.1. 模块](https://github.com/stone9693/python_basics/blob/master/course/chapter8.md#81-%E6%A8%A1%E5%9D%97)
+  - [8.2 包](https://github.com/stone9693/python_basics/blob/master/course/chapter8.md#82-%E5%8C%85)
